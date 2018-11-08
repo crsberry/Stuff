@@ -1,6 +1,6 @@
 """
 Lab 01a: This program prompts for your name and then greets you by name.
-Author: Christopher Roseberry
+Author:
 """
 
 
