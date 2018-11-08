@@ -1,6 +1,6 @@
 """
 Program: CS 115 Lab 01b
-Author: Christopher Roseberry
+Author: 
 Description: This program will compute the area of a square, the perimeter of a square and the volume of a square,
     given the side length.
 """
